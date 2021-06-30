@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Suhyun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I need to change to be **better** me"
   location         : "South Korea"
-  email            :
+  email            : "suhyunn0725@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
