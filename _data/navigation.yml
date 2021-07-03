@@ -3,7 +3,7 @@ main:
   - title: "About me"
     url: "/about/"
   - title: "Categories"
-    url: "/categories/"
+    url: "https://sue0725.github.io/categories/"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
