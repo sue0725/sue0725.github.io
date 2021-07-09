@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "About me"
-    url: "/about/"
+    url: /about/
   - title: "Categories"
-    url: "https://sue0725.github.io/categories/"
+    url: /categories/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
