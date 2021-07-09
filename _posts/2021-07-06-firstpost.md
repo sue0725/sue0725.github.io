@@ -1,7 +1,6 @@
 ---
-title: "First Post!"
-data: 2021-07-06 화요일
+title:  "First Post!"
 ---
 
-TIL 올릴 곳!
+ TIL 올릴 곳!
 ==================
