@@ -1,0 +1,24 @@
+/* ==========================================================================
+   Custom
+   ========================================================================== */
+
+/* Colors */
+$background-color: #EFF5FB !default;
+$text-color: #BDBDBD !default;
+$muted-text-color: $text-color !default;
+$primary-color: #ff0000 !default;
+$border-color: mix(#fff, #393e46, 75%) !default;
+$footer-background-color: $primary-color !default;
+$link-color: #0000ff !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $text-color !default;
+$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+
+
+.page__footer {
+  color: #e6e6ff !important; // override
+}
+
+.page__footer-follow .social-icons .svg-inline--fa  {
+  color: inherit;
+}
